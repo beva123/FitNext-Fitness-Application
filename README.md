@@ -1,2 +1,2 @@
 # FitNext-Fitness-Application
-A comprehensive employee wellness platform enabling organizations to track fitness activities. Admins manage employees, view leaderboards, and configure activity types (running, swimming, workouts).
+Welcome! This fitness application enables organizations to track employee wellness activities. Admins can manage employees, view leaderboards, and add activity types like running, swimming, and workouts. Employees can log their activities and filter data by date, employee, or activity type, promoting workplace health and competition.
